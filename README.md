@@ -1,8 +1,8 @@
 # Pedro Cesario
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Pedro Henrique Cesario, tenho 19 anos e sou natural de Sao Paulo capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera.
+Estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, residente em São Paulo (SP), com 19 anos e paixão por tecnologia. Busco aprimorar minhas habilidades em desenvolvimento de software e contribuir para projetos inovadores. Desenvolvi um pequeno projeto de Site de noticias utilizando HTML, CSS e JavaScript. Busco oportunidades para aprimorar minhas habilidades.
 
 
 ---
